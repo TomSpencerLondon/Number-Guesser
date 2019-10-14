@@ -1,0 +1,2 @@
+/Users/tomspencer/Projects/NumberGuesser/NumberGuesser/bin/Release/NumberGuesser.exe
+/Users/tomspencer/Projects/NumberGuesser/NumberGuesser/obj/Release/NumberGuesser.exe

@@ -1,0 +1,24 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberGuesser", "NumberGuesser\NumberGuesser.csproj", "{F3CDEBAA-18B2-4FFE-8C43-5F603DBE031B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3CDEBAA-18B2-4FFE-8C43-5F603DBE031B}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{F3CDEBAA-18B2-4FFE-8C43-5F603DBE031B}.Debug|anycpu.Build.0 = Debug|anycpu
+		{F3CDEBAA-18B2-4FFE-8C43-5F603DBE031B}.Release|anycpu.ActiveCfg = Release|anycpu
+		{F3CDEBAA-18B2-4FFE-8C43-5F603DBE031B}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.StandardHeader = $2
+		$0.VersionControlPolicy = $3
+	EndGlobalSection
+EndGlobal
